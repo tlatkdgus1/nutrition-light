@@ -25,7 +25,9 @@ SECRET_KEY = '-&1f&4f*^y4&go9c)ov^)pel$j#oidjm_6-p)i$+v+gbs4r!j$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'ss5h.namsu.xyz',
+]
 
 
 # Application definition
